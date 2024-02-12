@@ -5790,6 +5790,11 @@ section.lazy-placeholder:after {
 .cid-rhFeJF6raO .carousel-item {
   -webkit-justify-content: center;
   justify-content: center;
+
+  .wrap-img-new img {
+    width: 100%;
+    height: 250px;
+  }
 }
 .cid-rhFeJF6raO .carousel-item .media-container-row {
   -webkit-flex-grow: 1;
